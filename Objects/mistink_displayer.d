@@ -1,0 +1,9 @@
+.\objects\mistink_displayer.o: Mistink\source\Mistink_Displayer.c
+.\objects\mistink_displayer.o: .\Mistink\include\Mistink_Com.h
+.\objects\mistink_displayer.o: .\Mistink\include\Mistink.h
+.\objects\mistink_displayer.o: .\Mistink\include\Mistink_Config.h
+.\objects\mistink_displayer.o: .\Mistink\include\Mistink_Font.h
+.\objects\mistink_displayer.o: D:\DevelopmentTool\Keil\data\Core\ARM\ARMCC\Bin\..\include\math.h
+.\objects\mistink_displayer.o: D:\DevelopmentTool\Keil\data\Core\ARM\ARMCC\Bin\..\include\string.h
+.\objects\mistink_displayer.o: D:\DevelopmentTool\Keil\data\Core\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\mistink_displayer.o: .\System\include\heap_solution_1.h
